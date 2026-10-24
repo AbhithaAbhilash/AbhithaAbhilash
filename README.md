@@ -13,11 +13,11 @@
 
 <table>
 <tr>
-<td width="65%" valign="middle">
+<td width="58%" valign="middle">
 
 <p><sub>01 / THE PERSON BEHIND THE CODE</sub></p>
 
-<h2>curious by default.</h2>
+<h2 align="left">curious by default.</h2>
 
 <p>I like understanding how things work, turning ideas into something real, and exploring the space between technology and creativity.</p>
 
@@ -31,7 +31,7 @@ const abhitha = {
 </pre>
 
 </td>
-<td width="35%" align="center" valign="middle">
+<td width="42%" align="center" valign="middle">
 
 <img src="./status-card.png" width="100%" alt="Cherry-red scrapbook status card — explore, learn, build, repeat" />
 
