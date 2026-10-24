@@ -13,7 +13,7 @@
 
 <table>
 <tr>
-<td width="65%" valign="top">
+<td width="65%" valign="middle">
 
 <p><sub>01 / THE PERSON BEHIND THE CODE</sub></p>
 
@@ -33,16 +33,7 @@ const abhitha = {
 </td>
 <td width="35%" align="center" valign="middle">
 
-<p>☾ &nbsp; <b>IN PROGRESS</b></p>
-
-<p><sub>explore</sub></p>
-<p><sub>learn</sub></p>
-<p><sub>build</sub></p>
-<p><sub>repeat</sub></p>
-
-<br/>
-
-<p><sub>✦ still becoming ✦</sub></p>
+<img src="./status-card.png" width="100%" alt="Cherry-red scrapbook status card — explore, learn, build, repeat" />
 
 </td>
 </tr>
