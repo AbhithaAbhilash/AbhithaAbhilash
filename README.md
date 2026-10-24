@@ -11,24 +11,44 @@
 
 ---
 
+
 <table>
 <tr>
 <td width="58%" valign="middle">
 
-<p><sub>01 / THE PERSON BEHIND THE CODE</sub></p>
+<p><sub>A LITTLE ABOUT ME ✦</sub></p>
 
-<h2 align="left">curious by default.</h2>
+<h2 align="left">curious by default. <sup><sub>♥</sub></sup></h2>
 
-<p>I like understanding how things work, turning ideas into something real, and exploring the space between technology and creativity.</p>
+<p>
+  Computer science student, professional overthinker of how things work,
+  and a builder of things I'm curious about.
+</p>
+
+<p>
+  <sub>✦ CURRENTLY INTO</sub>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/AI%20%2F%20ML-35121F?style=flat-square&logoColor=F2C8D2" alt="AI and machine learning" />
+  <img src="https://img.shields.io/badge/WEB-511629?style=flat-square&logoColor=F2C8D2" alt="Web development" />
+  <img src="https://img.shields.io/badge/SPACE-76223A?style=flat-square&logoColor=FFE5EB" alt="Space" />
+  <img src="https://img.shields.io/badge/DESIGN-9B304C?style=flat-square&logoColor=FFE5EB" alt="Design" />
+</p>
 
 <pre>
-const abhitha = {
-  studying: "Computer Science",
-  currently: ["learning", "exploring", "building"],
-  interests: ["AI/ML", "web", "space", "design"],
+<span>const</span> myMind = {
+  defaultMode: "curious",
+  currently: "learning by building",
   motto: "curiosity over perfection"
 };
 </pre>
+
+<p>
+  <sub>LEARNING IN PUBLIC</sub>
+  &nbsp; ✦ &nbsp;
+  <sub>STILL BECOMING</sub>
+</p>
 
 </td>
 <td width="42%" align="center" valign="middle">
@@ -38,6 +58,7 @@ const abhitha = {
 </td>
 </tr>
 </table>
+
 
 ---
 
