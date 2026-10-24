@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="./cherry-header.png" width="100%" alt="Cherry-red celestial collage" />
@@ -10,7 +9,6 @@
 </div>
 
 ---
-
 
 <table>
 <tr>
@@ -36,13 +34,21 @@
   <img src="https://img.shields.io/badge/DESIGN-9B304C?style=flat-square&logoColor=FFE5EB" alt="Design" />
 </p>
 
+<table>
+<tr>
+<td bgcolor="#35121F">
+
 <pre>
-<span>const</span> myMind = {
+const myMind = {
   defaultMode: "curious",
   currently: "learning by building",
   motto: "curiosity over perfection"
 };
 </pre>
+
+</td>
+</tr>
+</table>
 
 <p>
   <sub>LEARNING IN PUBLIC</sub>
@@ -58,7 +64,6 @@
 </td>
 </tr>
 </table>
-
 
 ---
 
