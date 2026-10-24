@@ -67,44 +67,57 @@ const myMind = {
 
 ---
 
-### ✳ `/toolkit`
+<h3>🍒 <code>/toolkit</code></h3>
 
-<p align="left">
-<img src="https://img.shields.io/badge/C-35121F?style=for-the-badge&logo=c&logoColor=F2C8D2" alt="C" />
-<img src="https://img.shields.io/badge/C++-511629?style=for-the-badge&logo=cplusplus&logoColor=F2C8D2" alt="C++" />
-<img src="https://img.shields.io/badge/Python-76223A?style=for-the-badge&logo=python&logoColor=FFE5EB" alt="Python" />
-<img src="https://img.shields.io/badge/Java-9B304C?style=for-the-badge&logo=openjdk&logoColor=FFE5EB" alt="Java" />
-<img src="https://img.shields.io/badge/JavaScript-35121F?style=for-the-badge&logo=javascript&logoColor=F2C8D2" alt="JavaScript" />
-<img src="https://img.shields.io/badge/React-511629?style=for-the-badge&logo=react&logoColor=F2C8D2" alt="React" />
-<img src="https://img.shields.io/badge/Git-76223A?style=for-the-badge&logo=git&logoColor=FFE5EB" alt="Git" />
+<p><sub>LANGUAGES</sub></p>
+
+<p>
+  <img src="https://img.shields.io/badge/C-35121F?style=for-the-badge&logo=c&logoColor=F2C8D2" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-511629?style=for-the-badge&logo=cplusplus&logoColor=F2C8D2" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-76223A?style=for-the-badge&logo=python&logoColor=FFE5EB" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-9B304C?style=for-the-badge&logo=openjdk&logoColor=FFE5EB" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-35121F?style=for-the-badge&logo=javascript&logoColor=F2C8D2" alt="JavaScript" />
+</p>
+
+<p><sub>WEB & TOOLS</sub></p>
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-511629?style=for-the-badge&logo=html5&logoColor=F2C8D2" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-76223A?style=for-the-badge&logo=css3&logoColor=FFE5EB" alt="CSS3" />
+  <img src="https://img.shields.io/badge/React-35121F?style=for-the-badge&logo=react&logoColor=F2C8D2" alt="React" />
+  <img src="https://img.shields.io/badge/Git-9B304C?style=for-the-badge&logo=git&logoColor=FFE5EB" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-511629?style=for-the-badge&logo=github&logoColor=F2C8D2" alt="GitHub" />
 </p>
 
 ---
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="49%" valign="top">
 
-<h3>🥀 <code>// currently exploring</code></h3>
+<h3>🤍 <code>/exploring</code></h3>
 
-✦ Core computer science  
-✦ AI/ML and computer vision  
-✦ Web development  
-✦ Creative technology  
-✦ New ideas and tools  
+<p><sub>THINGS I'M LEARNING & BUILDING</sub></p>
+
+<p>✦ Core computer science</p>
+<p>✦ AI/ML & computer vision</p>
+<p>✦ Web development</p>
+<p>✦ Creative technology</p>
+<p>✦ New ideas & tools</p>
 
 </td>
-<td width="50%" valign="top">
+<td width="2%"></td>
+<td width="49%" valign="top">
 
-<h3>☾ <code>// beyond the screen</code></h3>
+<h3>☾ <code>/offscreen</code></h3>
 
-<table>
-<tr><td>♫</td><td>Music</td></tr>
-<tr><td>☾</td><td>Space & the night sky</td></tr>
-<tr><td>✧</td><td>Sci-fi & fantasy</td></tr>
-<tr><td>🍒</td><td>Rainy days</td></tr>
-<tr><td>∞</td><td>Learning for fun</td></tr>
-</table>
+<p><sub>THE LITTLE THINGS I LOVE</sub></p>
+
+<p>♫ &nbsp; Music</p>
+<p>☾ &nbsp; Space & the night sky</p>
+<p>✧ &nbsp; Sci-fi & fantasy</p>
+<p>🍒 &nbsp; Rainy days</p>
+<p>∞ &nbsp; Learning for fun</p>
 
 </td>
 </tr>
