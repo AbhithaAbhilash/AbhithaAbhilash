@@ -15,28 +15,34 @@
 <tr>
 <td width="65%" valign="top">
 
-### 🍒 `console.log("currently")`
+<p><sub>01 / THE PERSON BEHIND THE CODE</sub></p>
 
-```javascript
+<h2>curious by default.</h2>
+
+<p>I like understanding how things work, turning ideas into something real, and exploring the space between technology and creativity.</p>
+
+<pre>
 const abhitha = {
   studying: "Computer Science",
   currently: ["learning", "exploring", "building"],
   interests: ["AI/ML", "web", "space", "design"],
   motto: "curiosity over perfection"
 };
-```
+</pre>
 
 </td>
-<td width="35%" valign="middle" align="center">
+<td width="35%" align="center" valign="middle">
 
-<img src="https://img.shields.io/badge/STATUS-STILL_BECOMING-5A1728?style=for-the-badge&labelColor=100B0D" alt="Still becoming" />
+<p>☾ &nbsp; <b>IN PROGRESS</b></p>
 
-<br/><br/>
+<p><sub>explore</sub></p>
+<p><sub>learn</sub></p>
+<p><sub>build</sub></p>
+<p><sub>repeat</sub></p>
 
-*explore*  
-*learn*  
-*build*  
-*repeat*
+<br/>
+
+<p><sub>✦ still becoming ✦</sub></p>
 
 </td>
 </tr>
@@ -46,7 +52,7 @@ const abhitha = {
 
 ### ✳ `/toolkit`
 
-<p>
+<p align="left">
 <img src="https://img.shields.io/badge/C-35121F?style=for-the-badge&logo=c&logoColor=F2C8D2" alt="C" />
 <img src="https://img.shields.io/badge/C++-511629?style=for-the-badge&logo=cplusplus&logoColor=F2C8D2" alt="C++" />
 <img src="https://img.shields.io/badge/Python-76223A?style=for-the-badge&logo=python&logoColor=FFE5EB" alt="Python" />
@@ -62,26 +68,26 @@ const abhitha = {
 <tr>
 <td width="50%" valign="top">
 
-### 🥀 `// currently exploring`
+<h3>🥀 <code>// currently exploring</code></h3>
 
-- Core computer science
-- AI/ML and computer vision
-- Web development
-- Creative technology
-- New ideas and tools
+✦ Core computer science  
+✦ AI/ML and computer vision  
+✦ Web development  
+✦ Creative technology  
+✦ New ideas and tools  
 
 </td>
 <td width="50%" valign="top">
 
-### ☾ `// beyond the screen`
+<h3>☾ <code>// beyond the screen</code></h3>
 
-| | |
-|:---:|:---|
-| ♫ | Music |
-| ☾ | Space & the night sky |
-| ✧ | Sci-fi & fantasy |
-| 🍒 | Rainy days |
-| ∞ | Learning for fun |
+<table>
+<tr><td>♫</td><td>Music</td></tr>
+<tr><td>☾</td><td>Space & the night sky</td></tr>
+<tr><td>✧</td><td>Sci-fi & fantasy</td></tr>
+<tr><td>🍒</td><td>Rainy days</td></tr>
+<tr><td>∞</td><td>Learning for fun</td></tr>
+</table>
 
 </td>
 </tr>
@@ -97,7 +103,7 @@ const abhitha = {
 <tr>
 <td width="55%" valign="top">
 
-### ✧ `/find me around`
+<h3>✧ <code>/find me around</code></h3>
 
 <a href="https://github.com/AbhithaAbhilash">
 <img src="https://img.shields.io/badge/GitHub-35121F?style=for-the-badge&logo=github&logoColor=F2C8D2" alt="GitHub" />
@@ -110,14 +116,14 @@ const abhitha = {
 </td>
 <td width="45%" valign="top">
 
-### ◌ `/status`
+<h3>◌ <code>/status</code></h3>
 
-```text
+<pre>
 student   [ ongoing ]
 explorer  [ always ]
 builder   [ in progress ]
 version   [ evolving ]
-```
+</pre>
 
 </td>
 </tr>
